@@ -1,3 +1,29 @@
+# bisheng
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+BISHENG is an open-source enterprise Agent platform for building, deploying, and managing AI applications. It combines AI agents, workflows, RAG and knowledge management, desktop agent integration, and vibecoding app hosting with unified model management, evaluation, observability, access control, and enterprise administration.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+开源企业级 Agent 平台 BISHENG，用于构建、部署与管理 AI 应用，融合 Agent、工作流、RAG 与知识库。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 > 源自中国匠心，希望我们能像 DeepSeek、黑神话：悟空团队一样，给世界带来更多美好。
 
 <img src="docs/images/readme/bisheng-banner-zh.png" alt="Bisheng banner">
